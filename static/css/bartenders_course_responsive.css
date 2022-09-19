@@ -1,4 +1,4 @@
-@media screen and (prefers-color-scheme: light) {
+@media (prefers-color-scheme: light) {
     @media (min-width: 940px) {
         .slider__item {
             min-width: calc((100% / 3) - 4rem);
@@ -9675,7 +9675,7 @@
         }
     }
 }
-@media screen and (prefers-color-scheme: dark) {
+@media (prefers-color-scheme: dark) {
     @media (min-width: 940px) {
         .slider__item {
             min-width: calc((100% / 3) - 4rem);
